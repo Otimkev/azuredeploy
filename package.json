@@ -4,6 +4,7 @@
   "description": "Testing deployment using azure",
   "main": "index.js",
   "scripts": {
+    "run" : "node index.js",
     "test": "mocha || true"
   },
   "repository": {
