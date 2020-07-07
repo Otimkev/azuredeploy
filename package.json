@@ -1,0 +1,24 @@
+{
+  "name": "azuredeploy",
+  "version": "1.0.0",
+  "description": "Testing deployment using azure",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otimkev/azuredeploy.git"
+  },
+  "author": "kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Otimkev/azuredeploy/issues"
+  },
+  "homepage": "https://github.com/Otimkev/azuredeploy#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^8.0.1"
+  }
+}
